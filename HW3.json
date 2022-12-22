@@ -1,0 +1,24 @@
+{
+    "Movies": [
+        {
+            "genre": "comedy",
+            "title": "Жандарм на отдыхе"
+        },
+        {
+            "genre": "cartoon",
+            "title": "Гринч"
+        },
+        {
+            "genre": "fantasy",
+            "title": "Назад в будущее" 
+        },
+        {
+            "genre": "detectives",
+            "title": "Смерть на Ниле"
+        },
+        {
+            "genre": "adventures",
+            "title": "Приключения Тинтина. Тайна единорога"  
+        }
+    ]
+}
